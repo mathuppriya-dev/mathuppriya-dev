@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mathuppriya 👋
 
-<!--
-**mathuppriya-dev/mathuppriya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 2nd Year IT Student
+- Learning C, Ubuntu, and Web Development
 
-Here are some ideas to get you started:
+## 🚀 What I'm Doing
+- Practicing C programming labs
+- Web & Mobile Technology
+- Building my GitHub portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Goals
+- Get an internship in 6 months
+- Become a full stack developer
+
+## 📂 My Work
+- C Programming Labs
+- GPA Predictor ML Project
+
+ 
