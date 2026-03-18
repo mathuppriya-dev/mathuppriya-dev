@@ -14,6 +14,7 @@
 - Become a full stack developer
 
 ## 📂 My Work
+- Web and mobile tech
 - C Programming Labs
 - GPA Predictor ML Project
 
