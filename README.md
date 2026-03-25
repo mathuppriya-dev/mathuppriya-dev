@@ -18,4 +18,6 @@
 - C Programming Labs
 - GPA Predictor ML Project
 
+# Auther 
+Mathuppriya Naguleswaran
  
