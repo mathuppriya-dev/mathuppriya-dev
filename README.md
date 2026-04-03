@@ -1,83 +1,82 @@
-# Hi, I'm Mathuppriya 👋
-
-I'm a Software Engineering undergraduate who is currently learning and building real-world web applications.
-
-Right now, I'm focusing on understanding how systems actually work — not just writing code, but learning the logic behind it.
+<h1 align="center">Hi 👋, I'm Mathuppriya</h1>
+<p align="center">
+  Software Engineering Undergraduate • Learning Full-Stack Development Step by Step
+</p>
 
 ---
 
 ## 🎓 About Me
 
-- 🎓 BSc (Hons) in Software Engineering (Year 2)
-- 📍 Sri Lanka
-- 💻 Interested in backend development and full-stack systems
-- 📚 Still learning and improving step by step
+I'm currently a **BSc (Hons) Software Engineering undergraduate (Year 2)** from Sri Lanka.
+
+I'm focused on understanding how real-world systems work — especially how frontend, backend, and databases connect together.
+
+I’m not an expert yet, but I’m consistently learning, building, and improving.
 
 ---
 
-## 🚧 What I'm Currently Doing
+## 🚧 What I'm Working On
 
-- Building a **Career Guidance System (MERN Stack)**
-- Working on a **Z-Score based eligibility checker**
-- Learning how **APIs, databases, and frontend connect together**
-- Practicing Git, GitHub, and project structure
+- 🎯 Career Guidance System (MERN Stack)
+- 📊 Z-Score Based University Eligibility Checker
+- 🔗 Understanding API development and system flow
+- 🧪 Practicing backend logic and debugging
 
 ---
 
-## 🛠️ Technologies I Use (Learning Level)
+## 🛠️ Tech Stack (Current Level)
 
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Frontend:** React (Vite)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Postman, VS Code  
-- **Other:** Basic Linux (Ubuntu)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Projects
 
-### 🎯 Career Guidance & Eligibility System
-A web application to help students understand university eligibility and career paths.
+### 🎓 Career Guidance & Eligibility System
+A web-based system to help students choose degree programs based on their Z-score.
 
-- Uses Z-score logic to check eligibility  
-- Shows probability (safe / risky / borderline)  
-- Includes trend analysis (past cutoff data)  
+- Eligibility checking using real cutoff logic  
+- Probability levels (Safe / Borderline / Risk)  
+- Trend analysis using past data  
 
-👉 This is my main academic project and still in progress.
+🟡 *Currently in development*
 
 ---
 
 ### 🍔 Campus Food API
-A simple backend API for managing students and orders.
+Backend system for managing food orders and student data.
 
-- Built using Node.js + Express  
-- Uses MongoDB for data storage  
-- Practiced REST API design and testing with Postman  
-
----
-
-## 📈 What I'm Trying to Improve
-
-- Writing clean backend logic  
-- Understanding system design basics  
-- Building complete full-stack projects  
-- Improving problem solving and debugging  
+- REST API using Node.js & Express  
+- MongoDB database integration  
+- Tested using Postman  
 
 ---
 
-## 🎯 My Goal
+## 📈 Learning Focus
 
-To become a **job-ready Software Engineering Intern** by building real projects and improving my practical skills.
+- Writing clean backend code  
+- Understanding project structure (MERN)  
+- Improving debugging skills  
+- Building complete real-world applications  
 
 ---
 
-## 📫 Contact
+## 🎯 Goal
+
+To become a **job-ready Software Engineering Intern** by strengthening practical skills and building meaningful projects.
+
+---
+
+## 📫 Connect
 
 - GitHub: https://github.com/mathuppriya-dev  
+- LinkedIn: (add soon)
 
 ---
 
-## 💬 Note
+## 💬 Final Note
 
-I’m still learning — this profile is part of my journey, not the final result.
+This GitHub profile reflects my learning journey.  
+I'm continuously improving — one project at a time 🚀
