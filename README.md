@@ -1,78 +1,83 @@
-# Hi there! 👋 I'm Mathuppriya
+# Hi, I'm Mathuppriya 👋
 
-Welcome to my GitHub profile! I'm passionate about building amazing software, automating workflows, and contributing to the open-source community.
+I'm a Software Engineering undergraduate who is currently learning and building real-world web applications.
 
-## 🚀 About Me
-
-I'm a software developer with expertise in full-stack development and DevOps automation. I love leveraging GitHub Actions for CI/CD pipelines, clean code architecture, and solving complex problems with elegant solutions.
-
-## 💻 Tech Stack
-
-- **Languages:** JavaScript, Python, TypeScript, Java
-- **Frontend:** React, Vue.js, HTML/CSS
-- **Backend:** Node.js, Express, Django
-- **DevOps & CI/CD:** GitHub Actions, Docker, AWS, GitHub Packages
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Tools:** Git, GitHub, Linux, AWS
-
-## ⚙️ GitHub Actions & Automation
-
-I'm passionate about automating development workflows with GitHub Actions. My expertise includes:
-
-- **CI/CD Pipelines:** Automated testing, building, and deployment workflows
-- **Continuous Integration:** Running tests on every push and pull request
-- **Package Publishing:** Automated publishing to GitHub Packages and registries
-- **Code Quality:** Automated linting, security scanning, and code analysis
-- **Release Automation:** Streamlined deployment workflows for production environments
-
-### Example Workflows I've Built:
-- Automated Node.js application testing and deployment
-- Docker image building and pushing to registries
-- Python package publishing with version management
-- Code scanning and security checks on PRs
-
-## 🎯 What I'm Interested In
-
-- Full-stack web development
-- GitHub Actions & CI/CD automation
-- Cloud-native architecture
-- DevOps best practices
-- Open-source contributions
-- Technical mentoring
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=mathuppriya-dev&color=blue)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathuppriya-dev&show_icons=true&theme=radical)
-
-## 📌 Featured Projects
-
-Some of my notable projects:
-- [career guidence](link) - Its for Srilankan school leavers.
-
-## 🔗 Let's Connect
-
-- 📧 Email: 
-- 💼 LinkedIn: (https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: (https://yourwebsite.com)
-
-## 📝 Latest Blog Posts
-
-<!-- Add your latest blog posts here -->
-
-## 🎓 Always Learning
-
-Currently exploring and improving my skills in:
-- Advanced GitHub Actions workflows
-- Infrastructure-as-Code (IaC)
-- Kubernetes & container orchestration
-- Cloud security best practices
+Right now, I'm focusing on understanding how systems actually work — not just writing code, but learning the logic behind it.
 
 ---
 
-⭐ If you find my work interesting, feel free to star my repositories and connect with me!
+## 🎓 About Me
 
-# Auther 
-Mathuppriya Naguleswaran
- 
+- 🎓 BSc (Hons) in Software Engineering (Year 2)
+- 📍 Sri Lanka
+- 💻 Interested in backend development and full-stack systems
+- 📚 Still learning and improving step by step
+
+---
+
+## 🚧 What I'm Currently Doing
+
+- Building a **Career Guidance System (MERN Stack)**
+- Working on a **Z-Score based eligibility checker**
+- Learning how **APIs, databases, and frontend connect together**
+- Practicing Git, GitHub, and project structure
+
+---
+
+## 🛠️ Technologies I Use (Learning Level)
+
+- **Languages:** Java, JavaScript, HTML, CSS  
+- **Frontend:** React (Vite)  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman, VS Code  
+- **Other:** Basic Linux (Ubuntu)
+
+---
+
+## 📂 Projects
+
+### 🎯 Career Guidance & Eligibility System
+A web application to help students understand university eligibility and career paths.
+
+- Uses Z-score logic to check eligibility  
+- Shows probability (safe / risky / borderline)  
+- Includes trend analysis (past cutoff data)  
+
+👉 This is my main academic project and still in progress.
+
+---
+
+### 🍔 Campus Food API
+A simple backend API for managing students and orders.
+
+- Built using Node.js + Express  
+- Uses MongoDB for data storage  
+- Practiced REST API design and testing with Postman  
+
+---
+
+## 📈 What I'm Trying to Improve
+
+- Writing clean backend logic  
+- Understanding system design basics  
+- Building complete full-stack projects  
+- Improving problem solving and debugging  
+
+---
+
+## 🎯 My Goal
+
+To become a **job-ready Software Engineering Intern** by building real projects and improving my practical skills.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/mathuppriya-dev  
+
+---
+
+## 💬 Note
+
+I’m still learning — this profile is part of my journey, not the final result.
