@@ -3,6 +3,10 @@
   Software Engineering Undergraduate • Learning Full-Stack Development Step by Step
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mathuppriya-dev&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🎓 About Me
@@ -26,8 +30,17 @@ I’m not an expert yet, but I’m consistently learning, building, and improvin
 
 ## 🛠️ Tech Stack (Current Level)
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Clean)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathuppriya-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathuppriya-dev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -73,6 +86,14 @@ To become a **job-ready Software Engineering Intern** by strengthening practical
 
 - GitHub: https://github.com/mathuppriya-dev  
 - LinkedIn: (add soon)
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mathuppriya-dev/mathuppriya-dev/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
