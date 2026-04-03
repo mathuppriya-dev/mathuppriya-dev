@@ -92,9 +92,8 @@ To become a **job-ready Software Engineering Intern** by strengthening practical
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mathuppriya-dev/mathuppriya-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mathuppriya-dev/mathuppriya-dev/output/github-contribution-grid-snake.gif" alt="snake animation" />
 </p>
-
 ---
 
 ## 💬 Final Note
