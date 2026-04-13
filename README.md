@@ -100,4 +100,4 @@ To become a **job-ready Software Engineering Intern** by strengthening practical
 ## 💬 Final Note
 
 This GitHub profile reflects my learning journey.  
-I'm continuously improving — one project at a time 🚀
+I'm continuously improving my power🚀
