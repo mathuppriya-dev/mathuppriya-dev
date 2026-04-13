@@ -85,7 +85,7 @@ To become a **job-ready Software Engineering Intern** by strengthening practical
 ## 📫 Connect
 
 - GitHub: https://github.com/mathuppriya-dev  
-- LinkedIn: (add soon)
+- LinkedIn: https://www.linkedin.com/in/mathuppriya-naguleswaran-dev
 
 ---
 
