@@ -32,12 +32,18 @@ I’m not an expert yet, but I’m consistently learning, building, and improvin
 
 A full-stack mobile application designed to simplify and digitize university life for both students and lecturers. This app provides a centralized platform to manage academic activities, improve communication, and access essential resources in real time.
 
-🔔 Real-Time Announcements – Instant updates from lecturers and administration
-🔐 Secure Authentication – Role-based login system for students and lecturers
-📱 User-Friendly UI – Clean and intuitive mobile interface
+-🔔 Real-Time Announcements – Instant updates from lecturers and administration
+-🔐 Secure Authentication – Role-based login system for students and lecturers
+-📱 User-Friendly UI – Clean and intuitive mobile interface
 
 The application is built to enhance productivity, reduce manual processes, and create a more connected academic environment. By integrating essential university functions into a single platform, it ensures users stay organized, informed, and engaged—anytime, anywhere.
 
+## 🚧 What I'm Working On
+Lost and Found feacture 
+ - Fill a form about a lost or found item
+ - can add similar or exact image of the item (optional)
+ - Can contact owner (via messages or call)
+   
 ---
 
 ## 🛠️ Tech Stack (Current Level)
