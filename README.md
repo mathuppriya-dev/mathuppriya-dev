@@ -28,6 +28,12 @@ I’m not an expert yet, but I’m consistently learning, building, and improvin
 
 ---
 
+## 🎓 Smart University Mobile Application
+
+A full-stack mobile application designed to simplify and digitize university life for both students and lecturers. This app provides a centralized platform to manage academic activities, improve communication, and access essential resources in real time.
+
+The application is built to enhance productivity, reduce manual processes, and create a more connected academic environment. By integrating essential university functions into a single platform, it ensures users stay organized, informed, and engaged—anytime, anywhere.
+
 ## 🛠️ Tech Stack (Current Level)
 
 <p align="center">
