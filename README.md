@@ -56,6 +56,14 @@ A web-based system to help students choose degree programs based on their Z-scor
 
 🟡 *Currently in development*
 
+### 🎓 Smart Campus System
+A smart, all-in-one university mobile application designed to simplify campus life. It enables students and lecturers to manage schedules, access academic resources, receive real-time announcements, and stay connected—anytime, anywhere.
+- Canteen
+- Lost & Found
+- Announcements
+- Visitor sign-in
+- Library
+  
 ---
 
 ### 🍔 Campus Food API
