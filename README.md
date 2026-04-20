@@ -115,6 +115,11 @@ To become a **job-ready Software Engineering Intern** by strengthening practical
 
 ---
 
+My Accounts 
+- railway : https://railway.com/new/github
+- MongoDB Atlas : https://cloud.mongodb.com/v2/69e140c0f7e4f88196265ab3#/clusters
+- Expo : https://expo.dev/accounts/mathuppriya
+
 ## 💬 Final Note
 
 This GitHub profile reflects my learning journey.  
