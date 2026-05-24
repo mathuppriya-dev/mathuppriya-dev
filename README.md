@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathuppriya</h1>
+<h1 align="center">Hi 👋, I'm Mathuppriya Naguleswaran</h1>
 <p align="center">
   Software Engineering Undergraduate • Learning Full-Stack Development Step by Step
 </p>
