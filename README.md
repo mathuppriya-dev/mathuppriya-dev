@@ -119,6 +119,7 @@ My Accounts
 - railway : https://railway.com/new/github
 - MongoDB Atlas : https://cloud.mongodb.com/v2/69e140c0f7e4f88196265ab3#/clusters
 - Expo : https://expo.dev/accounts/mathuppriya
+- cloudinary: https://console.cloudinary.com/app/c-e2922709d6078be2c3bdd32f8f36d7/settings/profile
 
 ## 💬 Final Note
 
